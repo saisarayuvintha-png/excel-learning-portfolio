@@ -18,6 +18,15 @@ I followed a guided learning structure and practiced the steps independently.
 ## Files
 - Chapter_1_Basic_Practice.xlsx
 
+## Differences from guided examples
+
+- Used guided files as a learning framework while practicing steps independently
+- Modified multiple data values to validate calculations and formatting behavior
+- Applied ribbon tools and formatting manually through hands-on exploration
+- Regenerated final outputs based on updated inputs rather than copying results
+- Organized practice across multiple files to reflect different Chapter 1 concepts
+
+
 ## Notes
 This work reflects my hands-on Excel practice and understanding of the concepts.
 
